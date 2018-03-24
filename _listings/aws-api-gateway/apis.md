@@ -33,7 +33,7 @@ apis:
   tags: Responses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/responses/master/_listings/aws-api-gateway/restapis-uojnr9hd57-resources-0cjtch-methods-get-responses-200-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/responses/master/_listings/aws-api-gateway/restapis-uojnr9hd57-resources-0cjtch-methods-get-responses-200-get.md
 x-common:
 - type: x-documentation
   url: https://docs.aws.amazon.com/apigateway/api-reference/
