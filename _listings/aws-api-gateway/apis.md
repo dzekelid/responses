@@ -34,15 +34,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/responses/master/_listings/aws-api-gateway/restapis-uojnr9hd57-resources-0cjtch-methods-get-responses-200-get.md
-- name: AWS API Gateway API Methodresponse Delete
-  description: Deletes method response settings.
+- name: AWS API Gateway API Method Responses
+  description: Gets a method response associated with a given HTTP status code.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
   humanURL: https://aws.amazon.com/api-gateway/
   baseURL: http:://{host}//
   tags: Responses
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/responses/master/_listings/aws-api-gateway/restapis-uojnr9hd57-resources-0cjtch-methods-get-responses-200-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/responses/master/_listings/aws-api-gateway/restapis-uojnr9hd57-resources-0cjtch-methods-get-responses-200-get.md
 x-common:
 - type: x-documentation
   url: https://docs.aws.amazon.com/apigateway/api-reference/
