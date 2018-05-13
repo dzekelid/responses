@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS API Gateway API
+  title: AWS API Gateway API Method Responses
   version: 1.0.0
+  description: Gets a method response associated with a given HTTP status code.
 schemes:
 - http
 produces:
